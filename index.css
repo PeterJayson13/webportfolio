@@ -1,0 +1,98 @@
+
+body {
+  background-color: black;
+  font-family: "Inconsolata", monospace;
+  color: white;
+}
+/* Nav CSS */
+nav{
+  background-color: black;
+  border-radius: 25px;
+}
+.navbar-toggler {
+  border-color: white;
+}
+.navbar-brand {
+  color: #fb5607;
+}
+.nav-link {
+  color: white;
+  transition: color 0.3s ease;
+}
+.nav-link.active:hover {
+  color: #fb5607;
+}
+.nav-link:hover {
+  color: #fb5607;
+}
+
+/* Profile CSS */
+.web {
+  color: #fb5607;
+}
+#profilepic {
+  border: solid whitesmoke;
+  border-radius: 25px;
+}
+
+/*Project CSS*/
+.card {
+  border: solid #219ebc;
+  height: 500px;
+  width: 500px;
+}
+.img-projects {
+  height: 250px;
+  width: 250px;
+  border-radius: 25px;
+}
+
+/* Tools */
+.frontend {
+  border: solid beige;
+  border-radius: 25px;
+  background-color: dimgray;
+}
+.mern {
+  border: solid beige;
+  border-radius: 25px;
+  background-color: dimgray;
+}
+.other-tools {
+  border: solid beige;
+  border-radius: 25px;
+  background-color: dimgray;
+}
+.frontEndText {
+  background-color: #fb5607;
+  border-radius: 25px;
+  padding: 5px;
+}
+.mernText {
+  background-color: #fb5607;
+  border-radius: 25px;
+  padding: 5px;
+}
+.otherToolsText {
+  background-color: #fb5607;
+  border-radius: 25px;
+  padding: 5px;
+}
+
+/*Contacts*/
+
+.form {
+  background-color: darkgray;
+}
+.social-icon {
+  height: 40px;
+}
+.map-frame {
+  border: 0;
+}
+.btn {
+  background-color: #fb5607;
+}
+.copyright {
+  color: #fb5607;
+}
